@@ -10,12 +10,12 @@
 
 ### The Original(The first modification for Incredibox)🎮
 <p><a href="#" style="float: right;">
-  <img src="https://static.wikia.nocookie.net/incredibox/images/3/3b/Everything.jpg/revision/latest?cb=20200510190729" height="60" width="60">
+  <img src="https://i.pinimg.com/236x/81/f3/bb/81f3bb5aa3445415687b1a88ee961983--teaching-activities-teaching-music.jpg" height="60" width="60">
  </a>This version has very unique aspects compared to the preceding versions. The version features Incredimen that have a very different appearance: with shorter hair, an earring on his right ear, and a slightly over-detailed face, this design is also adopted as Incredible Polo in the Incredibox art style, they also have less-smooth animation.
 
 The version also has 5 sound categories unlike the other versions where 4 are present, the categories consist of Instruments, Percussions, Effects, Chorus, and Voices, only having 8 sounds in total. This version unlocked the bonuses when you have used a certain total number of beatboxers on the screen, unlike the others where you would need a certain combination of sounds onscreen.</p>
 
-<iframe width="956" height="538" src="https://www.youtube.com/embed/Hx6E_LOK5IQ?list=PLWSP6K2GT3mDXliH98a13PgSnWAcextiC" title="The Original | The First Incredibox Mod" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="562" height="396" src="https://www.youtube.com/embed/Hx6E_LOK5IQ?list=PLWSP6K2GT3mDXliH98a13PgSnWAcextiC" title="The Original | The First Incredibox Mod" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Incredibox Lady Gaga Edition🎮
 Mod in development
