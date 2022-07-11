@@ -20,7 +20,7 @@ The version also has 5 sound categories unlike the other versions where 4 are pr
 ### Incredibox Lady Gaga Edition🎮
 Mod in development
 
-### BBoxer's mixes
+### BBoxer's mixes🎶
 Like any player in Incredibox, BBoxer has its own mixes. Some of them were popular:
 
 V7: Alluring Trap (3937 views and 1190 likes)
