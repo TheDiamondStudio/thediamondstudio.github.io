@@ -12,7 +12,7 @@ Coming Soon
 ### Join us
 <ul class="social-icons">
   <li><a class="social-icon-vk" href="https://vk.com/blin.bear" title="..." target="_blank" rel="noopener"></a></li>
-  <li><a class="social-icon-telegram" href="http://t.me/@blin_bear" title="..." target="_blank" rel="noopener"></a></li>
+  <li><a class="social-icon-telegram" href="http://t.me/blin_bear" title="..." target="_blank" rel="noopener"></a></li>
   <li><a class="social-icon-youtube" href="youtube.com/Diamond1895" title="..." target="_blank" rel="noopener"></a></li>
 </ul>
 <style>
