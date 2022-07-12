@@ -1,38 +1,39 @@
-## Welcome to the TheDiamondStuido and BBoxer projects page📂
+## TheDiamondStudio & BBoxer Projects List
 
-### Underbox | Incredibox + Undertale🎮
+### 🎮| Underbox (Incredibox + Undertale)
 
 <p><a href="https://thediamondstudio.github.io/Underbox/" style="float: right;">
   <img src="https://thediamondstudio.github.io/Underbox/favicon.svg" height="60" width="60">
- </a>Underbox is a merger of two games Undertale and Incredibox. A mod in which we can make our own mixes with your favorite characters and sounds from Undertale.</p>
+ </a>"Underbox" is a merger of two games Undertale and Incredibox. A mod in which we can make our own mixes with your favorite characters and sounds from Undertale!</p>
 
 <iframe width="510" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- <a href="https://thediamondstudio.github.io/Underbox/">Go to the website</a>
+ <a href="https://thediamondstudio.github.io/Underbox/">Mod Page</a>
 
-### The Original(The first modification for Incredibox)🎮
+### 🎮| The Original On Mobiles (Incredibox 2009)
 <p><a href="#" style="float: right;">
   <img src="https://i.pinimg.com/236x/81/f3/bb/81f3bb5aa3445415687b1a88ee961983--teaching-activities-teaching-music.jpg" height="60" width="60">
  </a>This version has very unique aspects compared to the preceding versions. The version features Incredimen that have a very different appearance: with shorter hair, an earring on his right ear, and a slightly over-detailed face, this design is also adopted as Incredible Polo in the Incredibox art style, they also have less-smooth animation.
-
+<br>
 The version also has 5 sound categories unlike the other versions where 4 are present, the categories consist of Instruments, Percussions, Effects, Chorus, and Voices, only having 8 sounds in total. This version unlocked the bonuses when you have used a certain total number of beatboxers on the screen, unlike the others where you would need a certain combination of sounds onscreen.</p>
 
 <iframe width="510" height="287" src="https://www.youtube.com/embed/LehokruOzhY" title="Incredibox The Original on Mobiles 2 0 IS OUT! LINK IN DESC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Incredibox Lady Gaga Edition🎮
-Mod in development
+### 🎮| Ladybox (Incredibox Lady Gaga Edition)
+(In Development)
 
-### BBoxer's mixes🎶
-Like any player in Incredibox, BBoxer has its own mixes. Some of them were popular:
-
-V7: Alluring Trap (3937 views and 1190 likes)
-  V3: I.N.H. (810 views and 260 likes)
-V7: Immersion (502 views and 150 likes)
-Also, he has his own favorite mix, which has not gained popularity:
-
-V6: Mind Control (19 views and 13 likes)
-
-### Join us
+### 🎧| It's Gone EP (BBoxer's Incredibox Mixes Album)
+Like any player in Incredibox, BBoxer has its own mixes.
+<br>
+01. 0-5-7
+02. I Don't Believe
+03. Alluring Trap
+04. Mind Control
+05. I.N.H.
+06. Immersion
+<br>
+(In Development)
+____
 <ul class="social-icons">
   <li><a class="social-icon-vk" href="https://vk.com/blin.bear" title="..." target="_blank" rel="noopener"></a></li>
   <li><a class="social-icon-telegram" href="http://t.me/blin_bear" title="..." target="_blank" rel="noopener"></a></li>
