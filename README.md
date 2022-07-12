@@ -24,7 +24,7 @@ The version also has 5 sound categories unlike the other versions where 4 are pr
 
 ### 🎮| Reskincredibox
 <p><a href="#" style="float: right;">
-  <img src="https://i.pinimg.com/236x/81/f3/bb/81f3bb5aa3445415687b1a88ee961983--teaching-activities-teaching-music.jpg" height="60" width="60">
+  <img src="https://yt3.ggpht.com/a/AGF-l794jNW1umFD5VQNARiFfzYGUA29xlpou6s4Qw=s900-c-k-c0xffffffff-no-rj-mo" height="60" width="60">
  </a>
 Reskincredibox is the very first mod on Incredibox. Often, it is jokingly cited as not the best modification, because of its idea.
 The main idea of fashion is that the clothes of the characters of the game are repainted in other colors... Later, the modification received an important feature that makes the mod not so hopeless and boring. Bonuses in the modification are not just a repainted video-a number of original bonuses, but full-fledged independent bonuses, with their own plot, however, with the same sound.
