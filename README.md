@@ -26,14 +26,12 @@ The version also has 5 sound categories unlike the other versions where 4 are pr
 <p><a href="#" style="float: right;">
   <img src="https://i.pinimg.com/236x/81/f3/bb/81f3bb5aa3445415687b1a88ee961983--teaching-activities-teaching-music.jpg" height="60" width="60">
  </a>
+Reskincredibox is the very first mod on Incredibox. Often, it is jokingly cited as not the best modification, because of its idea.
+The main idea of fashion is that the clothes of the characters of the game are repainted in other colors... Later, the modification received an important feature that makes the mod not so hopeless and boring. Bonuses in the modification are not just a repainted video-a number of original bonuses, but full-fledged independent bonuses, with their own plot, however, with the same sound.
+Mods are often joked about when they talk about some kind of bad modification, due to the fact that inexperienced modmakers often make their mods in the same way, simply repainting the characters in a new color, without bringing anything new and interesting globally.
+The developers of the mod are BBoxer and Artemiy Kopych</p>
   <iframe width="510" height="287" src="https://www.youtube.com/embed/znACuXyM0X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Reskincredibox - самый первый мод на Incredibox. Часто, приводится в шутку как не самая хорошая модификация, из-за своей идеи.
-Основная задумка мода заключается в том, что одежда персонажей игры, перекрашивается в другие цвета... Позже, модификация получила важную особенность, делающую мод не таким обезнадёживающим и скучным. Бонусы в модификации не просто перекрашенный видео-ряд оригинальных бонусов, а полноценные самостоятельные бонусы, со своим сюжетом, однако, с тем-же звуком.
 
-Мод часто приводят в шутку, когда говорят, о какой-то плохой модификации, из-за того, что неопытные модмейкеры, часто делают свои моды таким-же образом, просто перекрашивая персонажей в новый цвет, не привнося глобально ничего нового и интересного.
-
-Разработчиками мода, являются BBoxer и Artemiy Kopych
-</p>
 
 ### 🎧| It's Gone EP (BBoxer's Incredibox Mixes Album)
 Like any player in Incredibox, BBoxer has its own mixes.
