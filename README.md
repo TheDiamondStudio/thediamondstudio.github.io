@@ -1,4 +1,4 @@
-## Welcome to the TheDiamondStuido and BBoxer projects page📂
+## TheDiamondStuido & BBoxer Projects
 
 ### Underbox | Incredibox + Undertale🎮
 
