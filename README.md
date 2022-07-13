@@ -14,17 +14,20 @@
 
 <iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="mt-6 sm:mt-10 flex justify-center space-x-6 text-sm">
+<div class="mt-6 sm:mt-10 flex justify-center space-x-6 text-sm mt-5 mb-5">
    <a class="bg-slate-900 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50 text-white font-semibold h-12 px-6 rounded-lg w-full flex items-center justify-center sm:w-auto dark:bg-sky-500 dark:highlight-white/20 dark:hover:bg-sky-400" href="https://thediamondstudio.github.io/Underbox/">Mod Page</a>
 </div>
 
-### 🎮| Ladybox (Incredibox Lady Gaga Edition)
+### 🎮| Gagabox (Incredibox Lady Gaga Edition)
 Incredibox Lady Gaga Edition is a mod that combines the albums of American singer Lady Gaga into the game incredibox.
-<be>Currently, the mod is in development, but it is known that the first version of the mod will be the LoveGame album of The Fame...
-<div class="mt-6 sm:mt-10 flex justify-center space-x-6 text-sm">
+<br>Currently, the mod is in development, but it is known that the first version of the mod will be the LoveGame album of The Fame...
+
+<div class="mt-6 sm:mt-10 flex justify-center space-x-6 text-sm mt-5 mb-5">
    <a class="bg-slate-900 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50 text-white font-semibold h-12 px-6 rounded-lg w-full flex items-center justify-center sm:w-auto dark:bg-sky-500 dark:highlight-white/20 dark:hover:bg-sky-400" href="https://thediamondstudio.github.io/Incredibox-Lady-Gaga-Edition/">Mod Page</a>
 </div>
+  
 ### 🎮| The Original On Mobiles (Incredibox 2009)
+  
 <p><a href="#" style="float: right;">
   <img src="https://i.pinimg.com/236x/81/f3/bb/81f3bb5aa3445415687b1a88ee961983--teaching-activities-teaching-music.jpg" height="60" width="60">
  </a>This version has very unique aspects compared to the preceding versions. The version features Incredimen that have a very different appearance: with shorter hair, an earring on his right ear, and a slightly over-detailed face, this design is also adopted as Incredible Polo in the Incredibox art style, they also have less-smooth animation.
