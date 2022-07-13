@@ -27,6 +27,16 @@ The version also has 5 sound categories unlike the other versions where 4 are pr
 
 ### 🎮| Ladybox (Incredibox Lady Gaga Edition)
 (In Development)
+
+<!-- Yandex.RTB R-A-1754644-3 -->
+<div id="yandex_rtb_R-A-1754644-3"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-1754644-3',
+    blockId: 'R-A-1754644-3'
+  })
+})</script>
+
 ### 🎮| Reskincredibox
 <p><a href="#" style="float: right;">
   <img src="https://yt3.ggpht.com/a/AGF-l794jNW1umFD5VQNARiFfzYGUA29xlpou6s4Qw=s900-c-k-c0xffffffff-no-rj-mo" height="60" width="60">
