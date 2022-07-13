@@ -4,6 +4,7 @@
 <!-- Yandex.RTB -->
 <script>window.yaContextCb=window.yaContextCb||[]</script>
 <script src="https://yandex.ru/ads/system/context.js" async></script>
+<script src="https://cdn.tailwindcss.com"></script>
 
 ### 🎮| Underbox (Incredibox + Undertale)
 
@@ -11,7 +12,7 @@
   <img src="https://thediamondstudio.github.io/Underbox/favicon.svg" height="60" width="60">
  </a>"Underbox" is a merger of two games Undertale and Incredibox. A mod in which we can make our own mixes with your favorite characters and sounds from Undertale!</p>
 
-<iframe width="510" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
  <a href="https://thediamondstudio.github.io/Underbox/">Mod Page</a>
 
@@ -22,7 +23,7 @@
 <br>
 The version also has 5 sound categories unlike the other versions where 4 are present, the categories consist of Instruments, Percussions, Effects, Chorus, and Voices, only having 8 sounds in total. This version unlocked the bonuses when you have used a certain total number of beatboxers on the screen, unlike the others where you would need a certain combination of sounds onscreen.</p>
 
-<iframe width="510" height="287" src="https://www.youtube.com/embed/LehokruOzhY" title="Incredibox The Original on Mobiles 2 0 IS OUT! LINK IN DESC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/LehokruOzhY" title="Incredibox The Original on Mobiles 2 0 IS OUT! LINK IN DESC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 🎮| Ladybox (Incredibox Lady Gaga Edition)
 (In Development)
@@ -34,7 +35,7 @@ Reskincredibox is the very first mod on Incredibox. Often, it is jokingly cited 
 The main idea of fashion is that the clothes of the characters of the game are repainted in other colors... Later, the modification received an important feature that makes the mod not so hopeless and boring. Bonuses in the modification are not just a repainted video-a number of original bonuses, but full-fledged independent bonuses, with their own plot, however, with the same sound.
 Mods are often joked about when they talk about some kind of bad modification, due to the fact that inexperienced modmakers often make their mods in the same way, simply repainting the characters in a new color, without bringing anything new and interesting globally.
 The developers of the mod are BBoxer and Artemiy Kopych</p>
-  <iframe width="510" height="287" src="https://www.youtube.com/embed/znACuXyM0X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/znACuXyM0X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### 🎧| It's Gone EP (BBoxer's Incredibox Mixes Album)
