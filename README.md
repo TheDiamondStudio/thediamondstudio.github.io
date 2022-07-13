@@ -1,3 +1,6 @@
+<head>
+<script>window.yaContextCb=window.yaContextCb||[]</script>
+</head>
 ## TheDiamondStudio & BBoxer Projects List
 
 ### 🎮| Underbox (Incredibox + Undertale)
@@ -124,5 +127,5 @@ Like any player in Incredibox, BBoxer has its own mixes.
   })
 })</script>
 <!-- Yandex.RTB -->
-<script>window.yaContextCb=window.yaContextCb||[]</script>
+
 <script src="https://yandex.ru/ads/system/context.js" async></script>
