@@ -14,7 +14,7 @@
 
 <iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- <a href="https://thediamondstudio.github.io/Underbox/">Mod Page</a>
+ <a class="bg-slate-900 hover:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-slate-400 focus:ring-offset-2 focus:ring-offset-slate-50 text-white font-semibold h-12 px-6 rounded-lg w-full flex items-center justify-center sm:w-auto dark:bg-sky-500 dark:highlight-white/20 dark:hover:bg-sky-400" href="https://thediamondstudio.github.io/Underbox/">Mod Page</a>
 
 ### 🎮| The Original On Mobiles (Incredibox 2009)
 <p><a href="#" style="float: right;">
