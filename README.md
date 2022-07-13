@@ -1,8 +1,9 @@
-<head>
+
 <!-- Yandex.RTB -->
 <script>window.yaContextCb=window.yaContextCb||[]</script>
 <script src="https://yandex.ru/ads/system/context.js" async></script>
-</head>
+
+<br>
 ## TheDiamondStudio & BBoxer Projects List
 
 ### 🎮| Underbox (Incredibox + Undertale)
