@@ -1,5 +1,7 @@
 <head>
+<!-- Yandex.RTB -->
 <script>window.yaContextCb=window.yaContextCb||[]</script>
+<script src="https://yandex.ru/ads/system/context.js" async></script>
 </head>
 ## TheDiamondStudio & BBoxer Projects List
 
@@ -126,6 +128,3 @@ Like any player in Incredibox, BBoxer has its own mixes.
     blockId: 'R-A-1754644-1'
   })
 })</script>
-<!-- Yandex.RTB -->
-
-<script src="https://yandex.ru/ads/system/context.js" async></script>
