@@ -5,6 +5,7 @@
 <script>window.yaContextCb=window.yaContextCb||[]</script>
 <script src="https://yandex.ru/ads/system/context.js" async></script>
 <script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,700,1,0" />
 
 ### 🎮| Underbox (Incredibox + Undertale)
 
@@ -16,11 +17,9 @@
 
 <div class="flex mt-3 mb-3">
 <button class="flex px-3 py-2 bg-blue-500 mr-1 text-white font-semibold rounded justify-center ">
-    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-planet h-5 w-5" viewBox="0 0 24 24" stroke-width="2" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M18.816 13.58c2.292 2.138 3.546 4 3.092 4.9c-.745 1.46 -5.783 -.259 -11.255 -3.838c-5.47 -3.579 -9.304 -7.664 -8.56 -9.123c.464 -.91 2.926 -.444 5.803 .805" />
-  <circle cx="12" cy="12" r="7" />
-</svg>
+    <span class="material-symbols-rounded h-5 w-5">
+tab
+</span>
     <a class="ml-1" href="https://thediamondstudio.github.io/Underbox/">Mod Page</a>
 </button>
 </div>
@@ -34,11 +33,9 @@ Incredibox Lady Gaga Edition is a mod that combines the albums of American singe
 
 <div class="flex  mt-3 mb-3">
 <button class="flex px-3 py-2 bg-blue-500 mr-1 text-white font-semibold rounded justify-center">
-    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-planet h-5 w-5" viewBox="0 0 24 24" stroke-width="2" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M18.816 13.58c2.292 2.138 3.546 4 3.092 4.9c-.745 1.46 -5.783 -.259 -11.255 -3.838c-5.47 -3.579 -9.304 -7.664 -8.56 -9.123c.464 -.91 2.926 -.444 5.803 .805" />
-  <circle cx="12" cy="12" r="7" />
-</svg>
+    <span class="material-symbols-rounded h-5 w-5">
+tab
+</span>
     <a class="ml-1" href="https://thediamondstudio.github.io/Incredibox-Lady-Gaga-Edition/">Mod Page</a>
 </button>
 </div>
