@@ -37,7 +37,14 @@ The version also has 5 sound categories unlike the other versions where 4 are pr
 <iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/LehokruOzhY" title="Incredibox The Original on Mobiles 2 0 IS OUT! LINK IN DESC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+<!-- Yandex.RTB R-A-1754644-1 -->
+<div id="yandex_rtb_R-A-1754644-1"></div>
+<script>window.yaContextCb.push(()=>{
+  Ya.Context.AdvManager.render({
+    renderTo: 'yandex_rtb_R-A-1754644-1',
+    blockId: 'R-A-1754644-1'
+  })
+})</script>
 
 ### 🎮| Reskincredibox
 <p><a href="#" style="float: right;">
