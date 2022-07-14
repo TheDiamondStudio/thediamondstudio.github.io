@@ -14,8 +14,8 @@
 
 <iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="flex">
-<button class="flex px-3 py-2 bg-blue-500 mr-1 text-white font-semibold rounded justify-center mt-3 mb-3">
+<div class="flex mt-3 mb-3">
+<button class="flex px-3 py-2 bg-blue-500 mr-1 text-white font-semibold rounded justify-center ">
     <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-planet h-5 w-5" viewBox="0 0 24 24" stroke-width="2" stroke="#ffffff" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
   <path d="M18.816 13.58c2.292 2.138 3.546 4 3.092 4.9c-.745 1.46 -5.783 -.259 -11.255 -3.838c-5.47 -3.579 -9.304 -7.664 -8.56 -9.123c.464 -.91 2.926 -.444 5.803 .805" />
