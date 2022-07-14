@@ -18,7 +18,7 @@
 <div class="flex mt-3 mb-3">
 <button class="flex px-3 py-2 bg-blue-500 mr-1 text-white font-semibold rounded justify-center ">
     <span class="material-symbols-rounded h-5 w-5">
-tab
+web
 </span>
     <a class="ml-1" href="https://thediamondstudio.github.io/Underbox/">Mod Page</a>
 </button>
@@ -34,7 +34,7 @@ Incredibox Lady Gaga Edition is a mod that combines the albums of American singe
 <div class="flex  mt-3 mb-3">
 <button class="flex px-3 py-2 bg-blue-500 mr-1 text-white font-semibold rounded justify-center">
     <span class="material-symbols-rounded h-5 w-5">
-tab
+web
 </span>
     <a class="ml-1" href="https://thediamondstudio.github.io/Incredibox-Lady-Gaga-Edition/">Mod Page</a>
 </button>
