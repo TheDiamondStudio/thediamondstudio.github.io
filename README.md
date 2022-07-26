@@ -5,6 +5,7 @@
 <script>window.yaContextCb=window.yaContextCb||[]</script>
 <script src="https://yandex.ru/ads/system/context.js" async></script>
 <script src="https://cdn.tailwindcss.com"></script>
+<script type="text/javascript">!(function(o,n){function $(){($.q=$.q||[]).push(arguments)}$.v=1,o[n]=o[n]||$})(window,String.fromCharCode(97,100,109,105,114,97,108));!(function(t,c,i){i=t.createElement(c),t=t.getElementsByTagName(c)[0],i.async=1,i.src="https://samplesamba.com/v2lds6TUvlCgrxTKzTJeU1Gp_-U-l7TanS-dXeQCP-cFfvwsXtJqEE9g",t.parentNode.insertBefore(i,t)})(document,"script");;!(function(o,t,n,c){function e(n){(function(){try{return(localStorage.getItem("v4ac1eiZr0")||"").split(",")[4]>0}catch(o){}return!1})()&&(n=o[t].pubads())&&n.setTargeting("admiral-engaged","true")}(c=o[t]=o[t]||{}).cmd=c.cmd||[],typeof c.pubads===n?e():typeof c.cmd.unshift===n?c.cmd.unshift(e):c.cmd.push(e)})(window,"googletag","function");</script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,700,1,0" />
 
 ### 🎮| Underbox (Incredibox + Undertale)
