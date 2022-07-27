@@ -5,8 +5,9 @@
 <script>window.yaContextCb=window.yaContextCb||[]</script>
 <script src="https://yandex.ru/ads/system/context.js" async></script>
 <script src="https://cdn.tailwindcss.com"></script>
-<script type="text/javascript">!(function(o,n){function $(){($.q=$.q||[]).push(arguments)}$.v=1,o[n]=o[n]||$})(window,String.fromCharCode(97,100,109,105,114,97,108));!(function(t,c,i){i=t.createElement(c),t=t.getElementsByTagName(c)[0],i.async=1,i.src="https://samplesamba.com/v2devnd9mFTLM6jaqAYkK13w-QMSRK_GVmIf4WL3Zcs8UQPrmWfAs_O8",t.parentNode.insertBefore(i,t)})(document,"script");;!(function(o,t,n,c){function e(n){(function(){try{return(localStorage.getItem("v4ac1eiZr0")||"").split(",")[4]>0}catch(o){}return!1})()&&(n=o[t].pubads())&&n.setTargeting("admiral-engaged","true")}(c=o[t]=o[t]||{}).cmd=c.cmd||[],typeof c.pubads===n?e():typeof c.cmd.unshift===n?c.cmd.unshift(e):c.cmd.push(e)})(window,"googletag","function");</script>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,700,1,0" />
+<!-- Только CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
 
 ### 🎮| Underbox (Incredibox + Undertale)
 
@@ -16,13 +17,13 @@
 
 <iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="flex mt-3 mb-3">
-<button class="flex px-3 py-2 bg-blue-500 mr-1 text-white font-semibold rounded justify-center ">
-    <span class="material-symbols-rounded h-5 w-5">
-web
-</span>
-    <a class="ml-1" href="https://thediamondstudio.github.io/Underbox/">Mod Page</a>
-</button>
+<div class="position-absolute top-0 start-0 translate-middle p-2">
+<button type="button" class="btn btn-primary">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-back" viewBox="0 0 16 16">
+  <path d="M0 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2H2a2 2 0 0 1-2-2V2zm2-1a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H2z"></path>
+</svg>
+                <a href="https://thediamondstudio.github.io/Underbox/">Mod Page</a>
+              </button>
 </div>
 
 ### 🎮| Gagabox (Incredibox Lady Gaga Edition)
@@ -31,14 +32,13 @@ Incredibox Lady Gaga Edition is a mod that combines the albums of American singe
 
 
   
-
-<div class="flex  mt-3 mb-3">
-<button class="flex px-3 py-2 bg-blue-500 mr-1 text-white font-semibold rounded justify-center">
-    <span class="material-symbols-rounded h-5 w-5">
-web
-</span>
-    <a class="ml-1" href="https://thediamondstudio.github.io/Incredibox-Lady-Gaga-Edition/">Mod Page</a>
-</button>
+<div class="position-absolute top-0 start-0 translate-middle p-2">
+<button type="button" class="btn btn-primary">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-back" viewBox="0 0 16 16">
+  <path d="M0 2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v2h2a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-2H2a2 2 0 0 1-2-2V2zm2-1a1 1 0 0 0-1 1v8a1 1 0 0 0 1 1h8a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H2z"></path>
+</svg>
+                <a href="https://thediamondstudio.github.io/Incredibox-Lady-Gaga-Edition/">Mod Page</a>
+              </button>
 </div>
 ### 🎮| The Original On Mobiles (Incredibox 2009)
   
