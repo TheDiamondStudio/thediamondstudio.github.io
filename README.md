@@ -7,6 +7,9 @@
 <script src="https://cdn.tailwindcss.com"></script>
 <!-- Только CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+<link rel="shortcut icon"
+    href="file:///C:/Users/%D0%BE%D0%BB%D0%B5%D0%B3/Downloads/file-earmark-code.svg">
+  <meta property="og:image" content="">
 
 
 ### 🎮| Underbox (Incredibox + Undertale)
