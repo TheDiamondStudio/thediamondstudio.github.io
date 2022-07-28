@@ -22,7 +22,7 @@
 
 <div class="btn-group" role="group" aria-label="Underbox">
             <a href="https://thediamondstudio.github.io/Underbox/" class="btn btn-primary " role="button">Site Page</a>          
-             <a href="https://github.com/TheDiamondStudio/Underbox/" class="btn btn-secondary " role="button">On Github</a>
+            <a href="https://github.com/TheDiamondStudio/Underbox/" class="btn btn-primary " role="button">On Github</a>
     </div>
 
 
@@ -32,8 +32,8 @@ Incredibox Lady Gaga Edition is a mod that combines the albums of American singe
 
 <div class="btn-group" role="group" aria-label="Gagabox">
         <a href="https://thediamondstudio.github.io/Gagabox" class="btn btn-primary " role="button">Site Page</a>
-        <a href="https://github.com/TheDiamondStudio/Gagabox" class="btn btn-secondary " role="button">On Github</a>
-        <a href="https://github.com/TheDiamondStudio/Gagabox-Demo-Page" class="btn btn-secondary"  role="button">Demo Page On Github</a>
+        <a href="https://github.com/TheDiamondStudio/Gagabox" class="btn btn-primary " role="button">On Github</a>
+        <a href="https://github.com/TheDiamondStudio/Gagabox-Demo-Page" class="btn btn-primary"  role="button">Demo Page On Github</a>
       </div>
       
 
