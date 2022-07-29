@@ -20,7 +20,7 @@
 
 <iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="btn-group" role="group" aria-label="Underbox">
+<div class="btn-group pt-3" role="group" aria-label="Underbox">
             <a href="https://thediamondstudio.github.io/Underbox/" class="btn btn-primary " role="button">Site Page</a>          
             <a href="https://github.com/TheDiamondStudio/Underbox/" class="btn btn-primary " role="button">On Github</a>
     </div>
