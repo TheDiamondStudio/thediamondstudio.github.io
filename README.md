@@ -33,17 +33,10 @@ Incredibox Lady Gaga Edition is a mod that combines the albums of American singe
         <a href="https://thediamondstudio.github.io/Gagabox" class="btn btn-primary " role="button">Site Page</a>
         <a href="https://github.com/TheDiamondStudio/Gagabox" class="btn btn-primary " role="button">On Github</a>
         <a href="https://github.com/TheDiamondStudio/Gagabox-Demo-Page" class="btn btn-primary"  role="button">Demo Page On Github</a>
-      </div>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9861211593185765"
-     crossorigin="anonymous"></script>
-<!-- блок -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:728px;height:90px"
-     data-ad-client="ca-pub-9861211593185765"
-     data-ad-slot="9394482909"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+ </div>
+
+
+
 ### 🎮| The Original On Mobiles (Incredibox 2009)
   
 <p><a href="#" style="float: right;">
@@ -54,6 +47,16 @@ The version also has 5 sound categories unlike the other versions where 4 are pr
 
 <iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/LehokruOzhY" title="Incredibox The Original on Mobiles 2 0 IS OUT! LINK IN DESC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9861211593185765"
+     crossorigin="anonymous"></script>
+<!-- блок -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9861211593185765"
+     data-ad-slot="9394482909"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ### 🎮| Reskincredibox
 <p><a href="#" style="float: right;">
