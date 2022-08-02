@@ -21,8 +21,8 @@
 
 <div class="pt-3" aria-label="Underbox">
 
-[![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Underbox/)
-[![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Underbox)](https://github.com/TheDiamondStudio/Underbox/)
+[![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Underbox/).
+[![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Underbox)](https://github.com/TheDiamondStudio/Underbox/).
     
 </div>
 
