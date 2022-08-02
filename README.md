@@ -19,12 +19,12 @@
 
 <iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div class="pt-3" aria-label="Underbox">
 
-[![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Underbox/).
-[![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Underbox)](https://github.com/TheDiamondStudio/Underbox/).
-    
-</div>
+
+[![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Underbox/)
+[![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Underbox)](https://github.com/TheDiamondStudio/Underbox/)
+[![Тут текст](https://img.youtube.com/vi/RHPYGwVQB2o/0.jpg)](https://youtu.be/RHPYGwVQB2o)
+
 
 
 ### 🎮| Gagabox (Incredibox Lady Gaga Edition)
