@@ -20,9 +20,11 @@
 <iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <div class="pt-3" aria-label="Underbox">
-            [![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Underbox/)
-            [![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Underbox)](https://github.com/TheDiamondStudio/Underbox/)
-    </div>
+
+[![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Underbox/)
+[![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Underbox)](https://github.com/TheDiamondStudio/Underbox/)
+    
+</div>
 
 
 ### 🎮| Gagabox (Incredibox Lady Gaga Edition)
@@ -30,10 +32,12 @@ Incredibox Lady Gaga Edition is a mod that combines the albums of American singe
 <br>Currently, the mod is in development, but it is known that the first version of the mod will be the LoveGame album of The Fame...
 
 <div class="btn-group pt-3" aria-label="Gagabox">
-        [![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Gagabox)
-        [![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Gagabox)](https://github.com/TheDiamondStudio/Gagabox)
-        [![Repo Demo](https://img.shields.io/github/repo-size/TheDiamondStudio/Gagabox-Demo-Page)](https://github.com/TheDiamondStudio/Gagabox-Demo-Page)
- </div>
+    
+[![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Gagabox)
+[![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Gagabox)](https://github.com/TheDiamondStudio/Gagabox)
+[![Repo Demo](https://img.shields.io/github/repo-size/TheDiamondStudio/Gagabox-Demo-Page)](https://github.com/TheDiamondStudio/Gagabox-Demo-Page)
+ 
+</div>
 
 
 
