@@ -10,6 +10,8 @@
 <link rel="shortcut icon"
     href="file-earmark-code.svg">
   <meta property="og:image" content="">
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9861211593185765"
+     crossorigin="anonymous"></script>
 
 
 ### 🎮| Underbox (Incredibox + Undertale)
