@@ -83,6 +83,16 @@ Like any player in Incredibox, BBoxer has its own mixes.
   <li><a class="social-icon-telegram" href="http://t.me/blin_bear" title="..." target="_blank" rel="noopener"></a></li>
   <li><a class="social-icon-youtube" href="youtube.com/Diamond1895" title="..." target="_blank" rel="noopener"></a></li>
 </ul>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9861211593185765"
+     crossorigin="anonymous"></script>
+<!-- хутер главная -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9861211593185765"
+     data-ad-slot="6316344681"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <style>
     /* social links */
     .social-icons {
