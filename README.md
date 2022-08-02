@@ -19,9 +19,14 @@
 
 <iframe class="w-full aspect-video pb-2" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-[![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Underbox/) [![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Underbox)](https://github.com/TheDiamondStudio/Underbox/)
-
+<div class="flex mt-3 space-x-2>
+<a href="https://thediamondstudio.github.io/Underbox/">
+    <img src="https://img.shields.io/badge/go-site%20page-brightgreen" alt="Site Page">
+</a> 
+<a href="https://github.com/TheDiamondStudio/Underbox/">
+    <img src="https://img.shields.io/github/repo-size/TheDiamondStudio/Underbox" alt="Repo">
+</a>
+                                                                                           </div>
 
 
 
@@ -30,10 +35,17 @@ Incredibox Lady Gaga Edition is a mod that combines the albums of American singe
 <br>Currently, the mod is in development, but it is known that the first version of the mod will be the LoveGame album of The Fame...
 
 
-    
-[![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Gagabox) [![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Gagabox)](https://github.com/TheDiamondStudio/Gagabox) [![Repo Demo](https://img.shields.io/github/repo-size/TheDiamondStudio/Gagabox-Demo-Page)](https://github.com/TheDiamondStudio/Gagabox-Demo-Page)
+ <div class="flex mt-3 space-x-2>                                                                                          
+<a href="https://thediamondstudio.github.io/Gagabox">
+                                                    <img src="https://img.shields.io/badge/go-site%20page-brightgreen" alt="Site Page">
+                                                                                                                                      </a> 
+                                                                                                                                      <a href="https://github.com/TheDiamondStudio/Gagabox">
+                                                                                                                                      <img src="https://img.shields.io/github/repo-size/TheDiamondStudio/Gagabox" alt="Repo">
+                                                                                                                                      </a> 
+                                                                                                                                      <a href="https://github.com/TheDiamondStudio/Gagabox-Demo-Page"><img src="https://img.shields.io/github/repo-size/TheDiamondStudio/Gagabox-Demo-Page" alt="Repo Demo">
+                                                                                                                                      </a>
 
-
+ </div>
  
 
 
