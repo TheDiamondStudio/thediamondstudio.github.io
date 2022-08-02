@@ -34,7 +34,16 @@ Incredibox Lady Gaga Edition is a mod that combines the albums of American singe
         <a href="https://github.com/TheDiamondStudio/Gagabox" class="btn btn-primary " role="button">On Github</a>
         <a href="https://github.com/TheDiamondStudio/Gagabox-Demo-Page" class="btn btn-primary"  role="button">Demo Page On Github</a>
       </div>
-      
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9861211593185765"
+     crossorigin="anonymous"></script>
+<!-- блок -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-9861211593185765"
+     data-ad-slot="9394482909"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ### 🎮| The Original On Mobiles (Incredibox 2009)
   
 <p><a href="#" style="float: right;">
