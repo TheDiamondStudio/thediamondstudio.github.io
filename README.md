@@ -9,7 +9,7 @@
   <meta property="og:image" content="">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9861211593185765"
      crossorigin="anonymous"></script>
-
+<script async defer src="https://cdn.leadplan.ru/loader.js?sk=726a86d3fafcd82f46f94f953d18ed0b"></script>
 
 ### 🎮| Underbox (Incredibox + Undertale)
 
