@@ -17,13 +17,11 @@
   <img src="https://thediamondstudio.github.io/Underbox/favicon.svg" height="60" width="60">
  </a>"Underbox" is a merger of two games Undertale and Incredibox. A mod in which we can make our own mixes with your favorite characters and sounds from Undertale!</p>
 
-<iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="w-full aspect-video pb-2" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+[![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Underbox/) [![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Underbox)](https://github.com/TheDiamondStudio/Underbox/)
 
-[![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Underbox/)
-[![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Underbox)](https://github.com/TheDiamondStudio/Underbox/)
-[![Тут текст](https://img.youtube.com/vi/RHPYGwVQB2o/0.jpg)](https://youtu.be/RHPYGwVQB2o)
 
 
 
@@ -31,13 +29,13 @@
 Incredibox Lady Gaga Edition is a mod that combines the albums of American singer Lady Gaga into the game incredibox.
 <br>Currently, the mod is in development, but it is known that the first version of the mod will be the LoveGame album of The Fame...
 
-<div class="pt-3" aria-label="Gagabox">
+
     
-[![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Gagabox)
-[![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Gagabox)](https://github.com/TheDiamondStudio/Gagabox)
-[![Repo Demo](https://img.shields.io/github/repo-size/TheDiamondStudio/Gagabox-Demo-Page)](https://github.com/TheDiamondStudio/Gagabox-Demo-Page)
+[![Site Page](https://img.shields.io/badge/go-site%20page-brightgreen)](https://thediamondstudio.github.io/Gagabox) [![Repo](https://img.shields.io/github/repo-size/TheDiamondStudio/Gagabox)](https://github.com/TheDiamondStudio/Gagabox) [![Repo Demo](https://img.shields.io/github/repo-size/TheDiamondStudio/Gagabox-Demo-Page)](https://github.com/TheDiamondStudio/Gagabox-Demo-Page)
+
+
  
-</div>
+
 
 
 
