@@ -1,9 +1,6 @@
 
 ## TheDiamondStudio & BBoxer Projects List
 
-<!-- Yandex.RTB -->
-<script>window.yaContextCb=window.yaContextCb||[]</script>
-<script src="https://yandex.ru/ads/system/context.js" async></script>
 <script src="https://cdn.tailwindcss.com"></script>
 <!-- Только CSS -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
@@ -48,15 +45,6 @@ The version also has 5 sound categories unlike the other versions where 4 are pr
 
 <iframe class="w-full aspect-video" height="287" src="https://www.youtube.com/embed/LehokruOzhY" title="Incredibox The Original on Mobiles 2 0 IS OUT! LINK IN DESC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-<!-- Yandex.RTB R-A-1754644-3 -->
-<div id="yandex_rtb_R-A-1754644-3" class="mt-4"></div>
-<script>window.yaContextCb.push(()=>{
-  Ya.Context.AdvManager.render({
-    renderTo: 'yandex_rtb_R-A-1754644-3',
-    blockId: 'R-A-1754644-3'
-  })
-})</script>
 
 ### 🎮| Reskincredibox
 <p><a href="#" style="float: right;">
@@ -151,11 +139,4 @@ Like any player in Incredibox, BBoxer has its own mixes.
       background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 576 512'%3E%3Cpath fill='%23ff0000' d='M549.655 124.083c-6.281-23.65-24.787-42.276-48.284-48.597C458.781 64 288 64 288 64S117.22 64 74.629 75.486c-23.497 6.322-42.003 24.947-48.284 48.597-11.412 42.867-11.412 132.305-11.412 132.305s0 89.438 11.412 132.305c6.281 23.65 24.787 41.5 48.284 47.821C117.22 448 288 448 288 448s170.78 0 213.371-11.486c23.497-6.321 42.003-24.171 48.284-47.821 11.412-42.867 11.412-132.305 11.412-132.305s0-89.438-11.412-132.305zm-317.51 213.508V175.185l142.739 81.205-142.739 81.201z'/%3E%3C/svg%3E");
     }
   </style>
-<!-- Yandex.RTB R-A-1754644-1 -->
-<div id="yandex_rtb_R-A-1754644-1"></div>
-<script>window.yaContextCb.push(()=>{
-  Ya.Context.AdvManager.render({
-    renderTo: 'yandex_rtb_R-A-1754644-1',
-    blockId: 'R-A-1754644-1'
-  })
-})</script>
+
