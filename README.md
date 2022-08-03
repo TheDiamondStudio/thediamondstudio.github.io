@@ -10,6 +10,11 @@
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9861211593185765"
      crossorigin="anonymous"></script>
 <script async defer src="https://cdn.leadplan.ru/loader.js?sk=726a86d3fafcd82f46f94f953d18ed0b"></script>
+<script type="text/javascript" id="cookiebanner"
+    src="https://cdn.jsdelivr.net/gh/dobarkod/cookie-banner@1.2.2/dist/cookiebanner.min.js"
+    data-height="50px" data-position="bottom"
+    data-message="The site uses cookies and other similar technologies. If, after reading this message, you remain on our site, it means that you do not object to the use of these technologies.">
+</script>
 
 ### 🎮| Underbox (Incredibox + Undertale)
 
