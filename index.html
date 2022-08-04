@@ -4,15 +4,25 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TheDiamondStuio</title>
-
+    <title>TheDiamondStuio | Open your heart to music</title>
+    <meta property="og:title" content="TheDiamondStuio | Open your heart to music">
+    <meta name="description" content="TheDiamondStudio is working on great mods to make you enjoy the music.">
+    <meta name="author" content="TheDiamondStuio">
+    <meta property="og:description" content="TheDiamondStudio is working on great mods to make you enjoy the music.">
     <script src="https://cdn.tailwindcss.com"></script>
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
         <link
         rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
         />
+        <link rel="shortcut icon" href="https://thediamondstudio.github.io/Gagabox/Diamond.PNG">
+        <!-- SweetAlert2 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11.4.24/dist/sweetalert2.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.4.24/dist/sweetalert2.all.min.js"></script>
+        <!-- jQuery -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <!-- Yandex.RTB -->
+        
 <script>window.yaContextCb=window.yaContextCb||[]</script>
 <script src="https://yandex.ru/ads/system/context.js" async></script>
     </head>
@@ -33,15 +43,37 @@
                     Learn more
                     <svg class="ml-2 -mr-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
                 </a>
-                <a href="https://youtube.com/c/Diamond1895" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800 animate__fadeInUp  animate__animated wow">
-                    <svg class="mr-2 -ml-1 w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M2 6a2 2 0 012-2h6a2 2 0 012 2v8a2 2 0 01-2 2H4a2 2 0 01-2-2V6zM14.553 7.106A1 1 0 0014 8v4a1 1 0 00.553.894l2 1A1 1 0 0018 13V7a1 1 0 00-1.447-.894l-2 1z"></path></svg>
-                    Youtube
-                </a>  
+                <button id="success" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 dark:text-white dark:border-gray-700 dark:hover:bg-gray-700 dark:focus:ring-gray-800 animate__fadeInUp  animate__animated wow">
+                    <svg class="mr-2 -ml-1 w-5 h-5" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-world" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                        <circle cx="12" cy="12" r="9"></circle>
+                        <line x1="3.6" y1="9" x2="20.4" y2="9"></line>
+                        <line x1="3.6" y1="15" x2="20.4" y2="15"></line>
+                        <path d="M11.5 3a17 17 0 0 0 0 18"></path>
+                        <path d="M12.5 3a17 17 0 0 1 0 18"></path>
+                     </svg>
+                    My social
+                </button>  
             </div>
             
+            <script>
+            
+        // Alert Modal Type
+		$(document).on('click', '#success', function(e) {
+			swal.fire({
+  title: '<strong>Look for us</strong>',
+  html:
+    '<div class="grid-rows-2 pb-8 flex flex-col space-y-4 "><a href="https://www.youtube.com/c/Diamond1895" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 animate__fadeInUp animate__animated wow" style="visibility:visible;animation-name:fadeInUp"><svg class="mr-2 -ml-1 w-5 h-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><rect x="3" y="5" width="18" height="14" rx="4"></rect><path d="M10 9l5 3l-5 3z"></path></svg> Youtube</a> <a href="https://vk.com/blin.bear" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 animate__fadeInUp animate__animated wow" style="visibility:visible;animation-name:fadeInUp"><svg class="mr-2 -ml-1 w-5 h-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M14 19h-4a8 8 0 0 1 -8 -8v-5h4v5a4 4 0 0 0 4 4h0v-9h4v4.5l.03 -.004a4.531 4.531 0 0 0 3.97 -4.496h4l-.342 1.711a6.858 6.858 0 0 1 -3.658 4.789h0a5.34 5.34 0 0 1 3.566 4.111l.434 2.389h0h-4a4.531 4.531 0 0 0 -3.97 -4.496v4.5z"></path></svg> VK</a> <a href="https://t.me/blin_bear" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 animate__fadeInUp animate__animated wow" style="visibility:visible;animation-name:fadeInUp"><svg class="mr-2 -ml-1 w-5 h-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path d="M15 10l-4 4l6 6l4 -16l-18 7l4 2l2 6l3 -4"></path></svg> Telegram</a> <a href="https://instagram.com/blin.bear" class="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-gray-900 rounded-lg border border-gray-300 hover:bg-gray-100 focus:ring-4 focus:ring-gray-100 animate__fadeInUp animate__animated wow" style="visibility:visible;animation-name:fadeInUp"><svg class="mr-2 -ml-1 w-5 h-5" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><rect x="4" y="4" width="16" height="16" rx="4"></rect><circle cx="12" cy="12" r="3"></circle><line x1="16.5" y1="7.5" x2="16.5" y2="7.501"></line></svg> Instagram</a></div>',
+  showCloseButton: true,
+  showCancelButton: true,
+  focusConfirm: false
+  
+})
+		});
+            </script>
         </div>
     </section>
-    <section class="bg-white dark:bg-gray-900" id="#more">
+    <section id="#more" class="bg-white dark:bg-gray-900" >
         <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
             <a class="animate__fadeInUp  animate__animated wow" href="https://thediamondstudio.github.io/Underbox/" style="float: right;">
                 <img src="https://thediamondstudio.github.io/Underbox/favicon.svg" height="60" width="60">
@@ -114,16 +146,16 @@
            </a>
         <div class="max-w-screen-lg text-gray-500 sm:text-lg dark:text-gray-400">
             
-            <h2 class="animate__fadeIn  animate__animated wow mb-4 text-4xl tracking-tight font-bold text-gray-900 dark:text-white">🎮| <span class="font-extrabold">Reskincredibox</span></h2>
-            <p class="mb-4 font-light animate__fadeIn  animate__animated wow">Reskincredibox is the very first mod on Incredibox. Often, it is jokingly cited as not the best modification, because of its idea.
+            <h2 class="animate__fadeInUp  animate__animated wow mb-4 text-4xl tracking-tight font-bold text-gray-900 dark:text-white">🎮| <span class="font-extrabold">Reskincredibox</span></h2>
+            <p class="animate__fadeInUp  animate__animated wow mb-4 font-light animate__fadeIn  animate__animated wow">Reskincredibox is the very first mod on Incredibox. Often, it is jokingly cited as not the best modification, because of its idea.
                 The main idea of fashion is that the clothes of the characters of the game are repainted in other colors... Later, the modification received an important feature that makes the mod not so hopeless and boring. Bonuses in the modification are not just a repainted video-a number of original bonuses, but full-fledged independent bonuses, with their own plot, however, with the same sound.
                 Mods are often joked about when they talk about some kind of bad modification, due to the fact that inexperienced modmakers often make their mods in the same way, simply repainting the characters in a new color, without bringing anything new and interesting globally.
                 The developers of the mod are BBoxer and Artemiy Kopych</p>
             
         </div>
-        <iframe class="w-full aspect-video p-4 animate__fadeInUp  animate__animated wow" height="287" src="https://www.youtube.com/embed/znACuXyM0X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe class="animate__fadeInUp  animate__animated wow w-full aspect-video p-4" height="287" src="https://www.youtube.com/embed/znACuXyM0X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
-    
+        
   </section>
 
   <!-- Yandex.RTB R-A-1754644-3 -->
