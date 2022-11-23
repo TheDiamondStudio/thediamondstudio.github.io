@@ -81,7 +81,7 @@ overflow: hidden;
 transition: color .1s,box-shadow .1s;
 border: none;
 border-radius: 5px;
-color: transparent;
+color: transparent !important;
 font-family: serif;
 font-family: monospace;
 font-size: 2.5em;
