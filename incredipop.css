@@ -72,49 +72,49 @@ opacity: 0;
 }
     
     .swal2-close {
-z-index: 2;
-align-items: center;
-justify-content: center;
-margin-bottom: -1.2em;
-padding: 0;
-overflow: hidden;
-transition: color .1s,box-shadow .1s;
-border: none;
-border-radius: 5px;
+z-index: 2 !important;
+align-items: center !important;
+justify-content: center !important;
+margin-bottom: -1.2em !important;
+padding: 0 !important;
+overflow: hidden !important;
+transition: color .1s,box-shadow .1s !important;
+border: none !important;
+border-radius: 5px !important;
 color: transparent !important;
-font-family: serif;
-font-family: monospace;
-font-size: 2.5em;
-cursor: pointer;
-justify-self: end;
-margin-top: -22px;
-margin-right: -22px;
-width: 40px;
-height: 40px;
-border-radius: 50%;
+font-family: serif !important;
+font-family: monospace !important;
+font-size: 2.5em !important;
+cursor: pointer !important;
+justify-self: end !important;
+margin-top: -22px !important;
+margin-right: -22px !important;
+width: 40px !important;
+height: 40px !important;
+border-radius: 50% !important;
 
-background-image: url(https://thediamondstudio.github.io/cross.svg);
-background-repeat: no-repeat;
-background-color: #000;
-cursor: pointer;
-transition: transform .3s ease-out;
+background-image: url(https://thediamondstudio.github.io/cross.svg) !important;
+background-repeat: no-repeat !important;
+background-color: #000 !important;
+cursor: pointer !important;
+transition: transform .3s ease-out !important;
 }
 .swal2-close:hover {
-transform: none;
-background: url(https://thediamondstudio.github.io/cross.svg);
-background-repeat: no-repeat;
-color: transparent;
-background-color: #000;
-transform: scale(1.1);
-transition-duration: .1s;
+transform: none !important;
+background: url(https://thediamondstudio.github.io/cross.svg) !important;
+background-repeat: no-repeat !important;
+color: transparent !important;
+background-color: #000 !important;
+transform: scale(1.1) !important;
+transition-duration: .1s !important;
 }
 .swal2-close:focus {
-outline: none;
-box-shadow: inset 0 0 0 0;
+outline: none !important;
+box-shadow: inset 0 0 0 0 !important; 
 }
 @media only screen and (max-width: 440px) {
 .swal2-close {
-margin-top: -22px;
-margin-right: 0px;
+margin-top: -22px !important;
+margin-right: 0px !important;
 }
 }
