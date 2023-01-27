@@ -12,8 +12,17 @@
     <meta property="og:description" content="TheDiamondStudio is working on great mods to make you enjoy the music.">
     <link rel="stylesheet" href="https://unpkg.com/flowbite@1.5.3/dist/flowbite.min.css" />
     <script src="https://cdn.tailwindcss.com"></script>
-
-
+      <script>
+        tailwind.config = {
+          theme: {
+            extend: {
+              colors: {
+                clifford: '#da373d',
+              }
+            }
+          }
+        }
+      </script>
         <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap" rel="stylesheet">
         <link
         rel="stylesheet"
@@ -36,7 +45,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
    </head>
-<body class="font-['Montserrat']">
+<body class="font-['Montserrat'] bg-white dark:bg-gray-900">
     
     <!-- This example requires Tailwind CSS v2.0+ -->
 <div class="bg-white dark:bg-gray-900">
@@ -48,7 +57,7 @@
         <div class="relative">
           <div class="absolute inset-x-0 bottom-0 h-1/2 bg-white dark:bg-gray-900"></div>
           <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <div class="relative shadow-xl sm:rounded-2xl sm:overflow-hidden">
+            <div class="relative shadow-xl sm:rounded-t-2xl sm:overflow-hidden">
               <div class="absolute inset-0">
                 <img class="h-full w-full object-cover" src="hero.webp">
                 <div class="absolute inset-0 bg-indigo-700 mix-blend-multiply"></div>
@@ -61,7 +70,7 @@
                 <p class="mt-6 max-w-lg mx-auto text-center text-xl text-indigo-200 sm:max-w-3xl animate__fadeIn  animate__animated wow">TheDiamondStudio is working on great mods<br>to make you enjoy the music.</p>
                 <div class="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
                   <div class="animate__fadeInUp  animate__animated wow  space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
-                    <a id="success" class="highlight-white/5 cursor-pointer flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-indigo-700 bg-white hover:bg-indigo-50 sm:px-8"><svg class="mr-2 -ml-1 w-5 h-5" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-world" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                    <a id="success" class="highlight-white/5 cursor-pointer flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-xl shadow-sm text-indigo-700 bg-white hover:bg-indigo-50 sm:px-8"><svg class="mr-2 -ml-1 w-5 h-5" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-world" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
                         <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
                         <circle cx="12" cy="12" r="9"></circle>
                         <line x1="3.6" y1="9" x2="20.4" y2="9"></line>
@@ -69,7 +78,7 @@
                         <path d="M11.5 3a17 17 0 0 0 0 18"></path>
                         <path d="M12.5 3a17 17 0 0 1 0 18"></path>
                      </svg> Social </a>
-                    <a href="https://incredibox.fandom.com/wiki/Diamond" class="highlight-white/5 flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-white bg-indigo-500 bg-opacity-60 hover:bg-opacity-70 sm:px-8"> Learn more </a>
+                    <a href="https://incredibox.fandom.com/wiki/Diamond" class="highlight-white/5 flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-xl shadow-sm text-white bg-indigo-500 bg-opacity-60 hover:bg-opacity-70 sm:px-8"> Learn more </a>
                      <style>
                       .highlight-white\/5 {
                           box-shadow: inset 0 1px 0 0 hsla(0,0%,100%,.05);
@@ -90,32 +99,42 @@
   </div>
   
 
-  <section class="bg-white dark:bg-gray-900">
-    <div class="py-8 px-4 lg:px-8 sm:px-6 mx-auto max-w-screen-xl lg:py-16 lg:px-6 ">
-
-        <div class="animate__fadeIn  animate__animated wow grid gap-8 mb-6 lg:mb-16 md:grid-cols-1">
-            <div class="items-center bg-gray-50 rounded-2xl shadow sm:flex dark:bg-gray-800 dark:border-gray-700">
-                <a href="#">
-                    <img class="w-full rounded-2xl sm:rounded-none sm:rounded-l-2xl" src="https://thediamondstudio.github.io/Gagabox/Diamond.PNG" alt=" Avatar">
-                </a>
-                <div class="p-5">
-                    <h3 class="text-xl font-bold tracking-tight text-gray-900 dark:text-white">
-                        <a href="#">Matvey Calderon</a>
-                    </h3>
-                    <span class="text-gray-500 dark:text-gray-400">Programmer, Artist</span>
-                    <p class="mt-3 mb-6 font-light text-gray-500 dark:text-gray-400">Matvey Calderon is not only a programmer, but also an Artist. He writes cool music and writes beautiful websites, does animation and videos.Listen to the tracks on the Music page.</p>
-                    <ul class="flex space-x-4 sm:mt-0">
-                        
-                        <li>
-                          <a href="https://thediamondstudio.github.io/music" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Music</a>
-                        </li>
-                    </ul>
-                </div>
-            </div> 
-            
-        </div>  
+  <div class="relative mb-16">
+    <div class="absolute inset-x-0 bottom-0 h-1/2 bg-white dark:bg-gray-900"></div>
+    <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
+      <div class="relative shadow-xl sm:rounded-b-2xl sm:overflow-hidden">
+        <div class="absolute inset-0">
+          <img class="h-full w-full object-cover" src="hero123.png">
+          <div class="absolute inset-0 bg-indigo-700 mix-blend-multiply"></div>
+        </div>
+        <div class="relative px-4 py-16 sm:px-6 sm:py-24 lg:py-15 lg:px-8" style="backdrop-filter: blur(10px);">
+          <h1 class="animate__fadeIn  animate__animated wow text-center text-xl font-extrabold tracking-tight sm:text-xl lg:text-3xl">
+            <span class="block text-white">Matvey Calderon is an Artist.</span>
+          </h1>
+          <p class="mt-6 max-w-lg mx-auto text-center text-xl text-indigo-200 sm:max-w-3xl animate__fadeIn  animate__animated wow">Listen to the tracks on the Music page.</p>
+          <div class="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
+            <div class="animate__fadeInUp  animate__animated wow  space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid">
+              <a href="/music" class="highlight-white/5 cursor-pointer flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-xl shadow-sm text-indigo-700 bg-white hover:bg-indigo-50 sm:px-8"><svg class="mr-2 -ml-1 w-5 h-5" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-world" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                  <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+                  <circle cx="12" cy="12" r="9"></circle>
+                  <line x1="3.6" y1="9" x2="20.4" y2="9"></line>
+                  <line x1="3.6" y1="15" x2="20.4" y2="15"></line>
+                  <path d="M11.5 3a17 17 0 0 0 0 18"></path>
+                  <path d="M12.5 3a17 17 0 0 1 0 18"></path>
+               </svg> Music </a>
+              <style>
+                .highlight-white\/5 {
+                    box-shadow: inset 0 1px 0 0 hsla(0,0%,100%,.05);
+                }
+               </style>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-  </section>
+  </div>
+
+
 
     <script>
             
@@ -132,150 +151,62 @@
 })
 		});
             </script>
-    <section class="bg-white dark:bg-gray-900" >
-        <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
-            <a class="animate__fadeIn  animate__animated wow" href="https://thediamondstudio.github.io/Underbox/" style="float: right;">
-                <img src="https://thediamondstudio.github.io/Underbox/favicon.svg" height="60" width="60">
-               </a>
-            <div class="max-w-screen-lg text-gray-500 sm:text-lg dark:text-gray-400">
-                
-                <h2 class="mb-4 text-4xl tracking-tight font-bold text-gray-900 dark:text-white animate__fadeIn  animate__animated wow">🎮| <span class="font-extrabold">Underbox</span> (Incredibox + Undertale)</h2>
-                <p class="mb-4 font-light animate__fadeIn  animate__animated wow">"Underbox" is a merger of two games Undertale and Incredibox. A mod in which we can make our own mixes with your favorite characters and sounds from Undertale!</p>
-                <a href="https://thediamondstudio.github.io/Underbox/" class="animate__fadeIn  animate__animated wow inline-flex items-center font-medium text-primary-600 hover:text-primary-800 dark:text-primary-500 dark:hover:text-primary-700">
-                    Learn more
-                    <svg class="ml-1 w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
-                </a>
-            </div>
-            <div class="pb-2 pt-2">
-                
-                <iframe class="w-full rounded-lg animate__fadeIn  animate__animated wow" height="287" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-            </div>
+
+<section class="text-gray-400 bg-gray-900 body-font ">
+  <div class="container px-5  mx-auto ">
+
+    <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
+      <div class="p-4 md:w-1/1  mb-6 py-6 lg:py-8 bg-gray-50 shadow dark:bg-gray-800 dark:border-gray-700 px-4 lg:px-8 sm:px-6 mx-auto max-w-screen-xl lg:px-6  rounded-2xl">
+        <div class="rounded-2xl h-64 overflow-hidden">
+          <iframe class="object-cover object-center h-full w-full" src="https://www.youtube.com/embed/b-GG08Gz9do" title="UNDERBOX | SNOWDIN V2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
-        
-      </section>
-    <section class="bg-white dark:bg-gray-900">
-        <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6 ">
-            <a class="animate__fadeIn  animate__animated wow" href="https://thediamondstudio.github.io/Gagabox" style="float: right;">
-                <img class="rounded-lg" src="https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/1b/98/88/1b9888da-6a1f-bff0-ec03-518f445019f6/19UMGIM73435.rgb.jpg/300x300bb.webp" height="60" width="60">
-               </a>
-            <div class="max-w-screen-lg text-gray-500 sm:text-lg dark:text-gray-400 ">
-                
-                <h2 class="mb-4 text-4xl tracking-tight font-bold text-gray-900 dark:text-white animate__fadeIn  animate__animated wow">🎮| <span class="font-extrabold">Gagabox</span> (Incredibox Lady Gaga Edition)</h2>
-                <p class="mb-4 font-light animate__fadeIn  animate__animated wow">Incredibox Lady Gaga Edition is a mod that combines the albums of American singer Lady Gaga into the game incredibox.
-                    <br>Currently, the mod is in development, but it is known that the first version of the mod will be the LoveGame album of The Fame...</p>
-                <a href="https://thediamondstudio.github.io/Gagabox" class=" animate__fadeIn  animate__animated wow inline-flex items-center font-medium text-primary-600 hover:text-primary-800 dark:text-primary-500 dark:hover:text-primary-700">
-                    Learn more
-                    <svg class="ml-1 w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
-                </a>
-            </div>
-            <div class="pb-2 pt-2">
-                
-                <iframe class="w-full rounded-lg animate__fadeIn  animate__animated wow" height="287" src="https://www.youtube.com/embed/ncFnkT-SF_A" title="LOVEGAME | TEASER №1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-            </div>
-        
-        </div>
-        
-      </section>
-      <!--
-      <section class="bg-white dark:bg-gray-900">
-        <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
-            <a class="animate__fadeIn  animate__animated wow" href="#" style="float: right;">
-                <img class="rounded-lg" src="https://i.pinimg.com/236x/81/f3/bb/81f3bb5aa3445415687b1a88ee961983--teaching-activities-teaching-music.jpg" height="60" width="60">
-               </a>
-            <div class="max-w-screen-lg text-gray-500 sm:text-lg dark:text-gray-400 ">
-                
-                <h2 class="mb-4 text-4xl tracking-tight font-bold text-gray-900 dark:text-white animate__fadeIn  animate__animated wow" >🎮| <span class="font-extrabold">The Original On Mobiles</span> (Incredibox 2009)</h2>
-                <p class="mb-4 font-light animate__fadeIn  animate__animated wow">This version has very unique aspects compared to the preceding versions. The version features Incredimen that have a very different appearance: with shorter hair, an earring on his right ear, and a slightly over-detailed face, this design is also adopted as Incredible Polo in the Incredibox art style, they also have less-smooth animation.<br>
-                    The version also has 5 sound categories unlike the other versions where 4 are present, the categories consist of Instruments, Percussions, Effects, Chorus, and Voices, only having 8 sounds in total. This version unlocked the bonuses when you have used a certain total number of beatboxers on the screen, unlike the others where you would need a certain combination of sounds onscreen.</p>
-                
-            </div>
-            <iframe class="animate__fadeIn  animate__animated wow w-full aspect-video p-4" height="287" src="https://www.youtube.com/embed/LehokruOzhY" title="Incredibox The Original on Mobiles 2 0 IS OUT! LINK IN DESC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-            </div>
-        
-      </section>-->
-      
-      <!-- Yandex.RTB R-A-1754644-1 -->
-<div id="yandex_rtb_R-A-1754644-1"></div>
-<script>window.yaContextCb.push(()=>{
-  Ya.Context.AdvManager.render({
-    renderTo: 'yandex_rtb_R-A-1754644-1',
-    blockId: 'R-A-1754644-1'
-  })
-})</script>
-
-<!--
-<section class="bg-white dark:bg-gray-900 ">
-    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
-        <a href="#" class="animate__fadeIn  animate__animated wow" style="float: right;">
-            <img class="rounded-lg" src="https://yt3.ggpht.com/a/AGF-l794jNW1umFD5VQNARiFfzYGUA29xlpou6s4Qw=s900-c-k-c0xffffffff-no-rj-mo" height="60" width="60">
-           </a>
-        <div class="max-w-screen-lg text-gray-500 sm:text-lg dark:text-gray-400">
-            
-            <h2 class="animate__fadeIn  animate__animated wow mb-4 text-4xl tracking-tight font-bold text-gray-900 dark:text-white">🎮| <span class="font-extrabold">Reskincredibox</span></h2>
-            <p class="animate__fadeIn  animate__animated wow mb-4 font-light animate__fadeIn  animate__animated wow">Reskincredibox is the very first mod on Incredibox. Often, it is jokingly cited as not the best modification, because of its idea.
-                The main idea of fashion is that the clothes of the characters of the game are repainted in other colors... Later, the modification received an important feature that makes the mod not so hopeless and boring. Bonuses in the modification are not just a repainted video-a number of original bonuses, but full-fledged independent bonuses, with their own plot, however, with the same sound.
-                Mods are often joked about when they talk about some kind of bad modification, due to the fact that inexperienced modmakers often make their mods in the same way, simply repainting the characters in a new color, without bringing anything new and interesting globally.
-                The developers of the mod are BBoxer and Artemiy Kopych</p>
-            
-        </div>
-        <iframe class="animate__fadeIn  animate__animated wow w-full aspect-video p-4" height="287" src="https://www.youtube.com/embed/znACuXyM0X8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
-        
-  </section>-->
-
-
-
-<section class="bg-white dark:bg-gray-900">
-    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6 ">
-        <a class="animate__fadeIn  animate__animated wow" href="https://vk.com/app51397590" style="float: right;">
-            <img class="rounded-lg" src="https://thediamondstudio.github.io/pwa/favicon.svg" height="60" width="60">
-           </a>
-        <div class="max-w-screen-lg text-gray-500 sm:text-lg dark:text-gray-400 ">
-            
-            <h2 class="mb-4 text-4xl tracking-tight font-bold text-gray-900 dark:text-white animate__fadeIn  animate__animated wow"><span class="font-extrabold">PWA</span> | Incrediapp</h2>
-            <p class="mb-4 font-light animate__fadeIn  animate__animated wow">A mini-VK application that will help you find out important news in the Incredibox world. (The application is exclusively in Russian)</p>
-            <a href="https://vk.com/app51397590" class=" animate__fadeIn  animate__animated wow inline-flex items-center font-medium text-primary-600 hover:text-primary-800 dark:text-primary-500 dark:hover:text-primary-700">
-                Learn more
-                <svg class="ml-1 w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
-            </a>
-        </div>
-        
-    
-    </div>
-    
-  </section>
-
-          
-
-<section class="bg-white dark:bg-gray-900">
-    <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6 ">
-        <!--
-      <a class="animate__fadeIn  animate__animated wow" href="https://www.youtube.com/@Diamond_Calderon" style="float: right;">
-            <img class="rounded-lg" src="https://thediamondstudio.github.io/Gagabox/Diamond.PNG" height="60" width="60">
+        <h2 class="text-xl font-medium title-font text-white mt-5">Underbox (Incredibox + Undertale)</h2>
+        <p class="text-base leading-relaxed mt-2">"Underbox" is a merger of two games Undertale and Incredibox. A mod in which we can make our own mixes with your favorite characters and sounds from Undertale!</p>
+        <a href="https://thediamondstudio.github.io/Underbox/" class="text-indigo-400 inline-flex items-center mt-3">Learn More
+          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+            <path d="M5 12h14M12 5l7 7-7 7"></path>
+          </svg>
         </a>
--->
-        <div class="max-w-screen-lg text-gray-500 sm:text-lg dark:text-gray-400 ">
-            
-            <h2 class="mb-4 text-4xl tracking-tight font-bold text-gray-900 dark:text-white animate__fadeIn  animate__animated wow">Watch videos on the channel</h2>
-            <p class="mb-4 font-light animate__fadeIn  animate__animated wow">If you are interested, you can go to the YouTube channel and learn even more interesting things!</p>
-            <a href="https://www.youtube.com/c/Diamond1895/" class=" animate__fadeIn  animate__animated wow inline-flex items-center font-medium text-primary-600 hover:text-primary-800 dark:text-primary-500 dark:hover:text-primary-700">
-                Go to the channel
-                <svg class="ml-1 w-6 h-6" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z" clip-rule="evenodd"></path></svg>
-            </a>
+      </div>
+      <div class="p-4 md:w-1/1  mb-6 py-6 lg:py-8  bg-gray-50 shadow dark:bg-gray-800 dark:border-gray-700 px-4 lg:px-8 sm:px-6 mx-auto max-w-screen-xl lg:px-6  rounded-2xl">
+        <div class="rounded-2xl h-64 overflow-hidden">
+          <iframe  class="object-cover object-center h-full w-full" src="https://www.youtube.com/embed/ncFnkT-SF_A" title="LOVEGAME | TEASER №1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          
         </div>
-        
-        <!-- Yandex.RTB R-A-1754644-3 -->
-        <div id="yandex_rtb_R-A-1754644-3"></div>
-        <script>window.yaContextCb.push(()=>{
-          Ya.Context.AdvManager.render({
-            renderTo: 'yandex_rtb_R-A-1754644-3',
-            blockId: 'R-A-1754644-3'
-          })
-        })</script>
-  </section>
+        <h2 class="text-xl font-medium title-font text-white mt-5">Gagabox (Incredibox Lady Gaga Edition)</h2>
+        <p class="text-base leading-relaxed mt-2">Incredibox Lady Gaga Edition is a mod that combines the albums of American singer Lady Gaga into the game incredibox.
+          Currently, the mod is in development, but it is known that the first version of the mod will be the LoveGame album of The Fame...</p>
+        <a href="https://thediamondstudio.github.io/Gagabox" class="text-indigo-400 inline-flex items-center mt-3">Learn More
+          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+            <path d="M5 12h14M12 5l7 7-7 7"></path>
+          </svg>
+        </a>
+      </div>
+      <div class="p-4 sm:w-1/1 mb-6 py-6 lg:py-8 bg-gray-50 shadow dark:bg-gray-800 dark:border-gray-700 px-4 lg:px-8 sm:px-6 mx-auto max-w-screen-xl rounded-2xl  ">
 
-        <footer class="p-4 bg-white md:p-8 lg:p-10 dark:bg-gray-800">
+        <h2 class="text-xl font-medium title-font text-white mt-5">PWA | Incrediapp</h2>
+        <p class="text-base leading-relaxed mt-2">A mini-VK application that will help you find out important news in the Incredibox world. (The application is exclusively in Russian)</p>
+        <a href="https://vk.com/app51397590" class="text-indigo-400 inline-flex items-center mt-3">Learn More
+          <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
+            <path d="M5 12h14M12 5l7 7-7 7"></path>
+          </svg>
+        </a>
+      </div>
+      
+    </div>
+  </div>
+  <!-- Yandex.RTB R-A-1754644-3 -->
+  <div id="yandex_rtb_R-A-1754644-3"></div>
+  <script>window.yaContextCb.push(()=>{
+    Ya.Context.AdvManager.render({
+      renderTo: 'yandex_rtb_R-A-1754644-3',
+      blockId: 'R-A-1754644-3'
+    })
+  })</script>
+</section>
+
+
+        <footer class="p-4 bg-white  md:p-8 lg:p-10 dark:bg-gray-800">
             <div class="mx-auto max-w-screen-xl text-center">
                 <a href="#" class="mb-6 flex justify-center items-center text-2xl font-semibold text-gray-900 dark:text-white">
                     TheDiamondStudio    
